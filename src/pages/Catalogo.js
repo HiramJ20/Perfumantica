@@ -32,6 +32,14 @@ const productosIniciales = [
     precio: '$1,850 MXN',
     stock: 6,
     imagen: '/images/producto4.jpg'
+  },
+  {
+    id: 5,
+    nombre: 'Spicebomb EXtreme',
+    descripcion: 'Spicebomb Extreme de Viktor&Rolf es una fragancia de la familia olfativa Oriental Especiada para Hombres..',
+    precio: '$2,250 MXN',
+    stock: 6,
+    imagen: '/images/producto5.jpg'
   }
 ];
 
